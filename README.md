@@ -1,2 +1,2 @@
-# testJava
+# test-java
 test
